@@ -62,6 +62,7 @@ XRPUSDT	Ripple
 ADAUSDT	Cardano
 DOGEUSDT	Dogecoin
 SOLUSDT	Solana
+
 🔍 Проверка работы
 В браузере:
 Должны отображаться все 8 валют
