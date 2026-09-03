@@ -81,12 +81,19 @@ SOLUSDT	Solana
 text
 js-basics/
 ├── index.html          # Клиентская часть (интерфейс)
+
 ├── script.js           # Серверная часть (WebSocket сервер)
+
 ├── styles.css          # Стили клиента
+
 ├── package.json        # Зависимости проекта
+
 ├── package-lock.json   # Фиксация версий
+
 ├── README.md           # Документация
+
 └── .gitignore          # Игнорируемые файлы
+
 🐛 Возможные проблемы
 Ошибка "Unexpected server response: 400"
 Убедитесь, что сервер запущен (node script.js)
